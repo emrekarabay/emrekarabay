@@ -1,5 +1,5 @@
-- 🌱 I’m currently learning C++ and Python.
-- 📫 How to reach me karabayemre10@gmail.com
+I’m currently learning JavaScript and Python.
+
 
 <!---
 krbyemre/krbyemre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
