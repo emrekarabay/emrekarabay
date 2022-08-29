@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Süleyman Emre Karabay</h1>
 <h3 align="center">Jr. Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Frontend Programming Language**
+- 🌱 I’m currently learning **Frontend Programming Languages**
 
 - 📫 How to reach me **karabayemre10@gmail.com**
 
