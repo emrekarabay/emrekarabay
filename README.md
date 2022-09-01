@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Süleyman Emre Karabay</h1>
 <h3 align="center">Jr. Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Frontend Programming Languages**
+- 🌱 I’m currently learning **Frontend Programming Language**
 
 - 📫 How to reach me **karabayemre10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/emrekarabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/emrekarabay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emrekarabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrekarabay" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19543755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19543755" height="30" width="40" /></a>
 <a href="https://instagram.com/emre_karabayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emre_karabayy" height="30" width="40" /></a>
 <a href="https://medium.com/@emrekarabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emrekarabay" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/karabayemre10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karabayemre10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
