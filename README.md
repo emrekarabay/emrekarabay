@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Süleyman Emre Karabay</h1>
 <h3 align="center">Jr. Software Developer</h3>
 
-- 🌱 I’m currently learning **javaScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **karabayemre10@gmail.com**
 
